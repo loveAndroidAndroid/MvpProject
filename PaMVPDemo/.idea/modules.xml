@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PaMVPDemo.iml" filepath="$PROJECT_DIR$/PaMVPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-core/lib-core.iml" filepath="$PROJECT_DIR$/lib-core/lib-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-image/lib-image.iml" filepath="$PROJECT_DIR$/lib-image/lib-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-network/lib-netmvp.iml" filepath="$PROJECT_DIR$/lib-network/lib-netmvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-network/lib-network.iml" filepath="$PROJECT_DIR$/lib-network/lib-network.iml" />
+    </modules>
+  </component>
+</project>
